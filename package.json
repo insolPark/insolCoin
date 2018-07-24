@@ -1,0 +1,13 @@
+{
+  "name": "insolCoin",
+  "version": "1.0.0",
+  "description": "InsolCoin, the first awesome coin made in Node.JS TEST insolPark Coin",
+  "main": "src/server.js",
+  "repository": "https://github.com/insolPark/insolCoin",
+  "author": "insolPark <parkis9300@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
